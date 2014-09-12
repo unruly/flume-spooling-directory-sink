@@ -1,5 +1,7 @@
 ## flume-spooling-directory-sink
 
+[![Build Status](https://travis-ci.org/unruly/flume-spooling-directory-sink.svg?branch=master)](https://travis-ci.org/unruly/flume-spooling-directory-sink)
+
 An [Apache Flume](https://flume.apache.org/) sink that spools to a directory and periodically rotates the temporary files into another directory.
 
 ## Example config
